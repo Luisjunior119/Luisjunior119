@@ -1,7 +1,7 @@
 ### Hello world!👋
 
 - 🔭 Hoje trabalho no projeto da minha equipe do DemoDay do InstitutoProa.
-- 🌱 Estudando Javascript.
+- 🌱 Estudando React e Java.
 - 📫 Contate-me no email: luisroyale211@gmail.com
 
 <div style="display: inline_block"><br>
